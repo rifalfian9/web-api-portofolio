@@ -1,0 +1,113 @@
+{
+  "foto": "https://rifalfian9.github.io/gambar/rifqi.png",
+  "nama": "Rifqi Alfiansyah Kamil",
+  "gelar": "A.Md.Teknologi Informasi",
+  "deskripsi": "Saya adalah mahasiswa aktif Program Studi Teknonogi Informasi, Fakultas Vokasi, Universitas Brawijaya. Memiliki antusiasme dalam dunia TI terutama dalam Pengembangan Website.  Saya banyak mengisi waktu luang dengan membangun website mulai dari pemrograman native maupun framework.  ",
+  "pendidikan": [
+    {
+      "jenjang": "DIPLOMA III, TEKNOLOGI INFORMASI",
+      "deskripsi": "Saat ini saya menempuh pendidikan yang sudah berjalan 3 semester di Fakultas Vokasi. IPK terakhir yang saya dapatkan adalah 3,91 /4,00.",
+      "periode": "Universitas Brawijaya, 2021 - Sekarang"
+    },
+    {
+      "jenjang": "SMAN 1 KEPANJEN",
+      "deskripsi": "",
+      "periode": "Kepanjen, 2018 - 2021"
+    },
+    {
+      "jenjang": "SMPN 4 KEPANJEN",
+      "deskripsi": "",
+      "periode": "Kepanjen, 2015 - 2018"
+    },
+    {
+      "jenjang": "SDN 3 KEPANJEN",
+      "deskripsi": "",
+      "periode": "Kepanjen, 2009 - 2015"
+    }
+  ],
+  "sosialmedia": [
+    {
+      "media": "Github",
+      "link": "github.com/rifalfian9",
+      "foto": "https://pngimg.com/uploads/github/github_PNG40.png"
+    },
+    {
+      "media": "Gmail",
+      "link": "rifqialfiansyah10@gmail.com",
+      "foto": "https://www.pngall.com/wp-content/uploads/12/Gmail-Logo-PNG-Images.png"
+    },
+    {
+      "media": "Linkedin",
+      "link": "linkedin.com/in/rifqi-alfiansyah-kamil-b0ab2b221",
+      "foto": "https://logospng.org/download/linkedin/logo-linkedin-icon-1536.png"
+    },
+    {
+      "media": "Instagram",
+      "link": "rifqii.akml",
+      "foto": "https://assets2.rappler.com/44656D08092349028A40A2F525B1F43C/img/DE30A73B4872401C9DAF34D08715F552/instagram_logo.png"
+    }
+  ],
+  "pengalaman": [
+    {
+      "title": "Divisi DDM - Ramadhan Brawijaya 2022 ",
+      "deskripsi": "Saya bertanggung jawab dalam ide konten instagram, feed post, dokumentasi yang berkaitan acara."
+    },
+    {
+      "title": "Ketua PMR - PMR SMAN 1 Kepanjen 2019 ",
+      "deskripsi": "Saya bertanggung jawab dalam membangun organisasi yang mampu menjalankan program kerja dan kegiatan sekolah."
+    }
+  ],
+  "kemampuan": [
+    {
+      "program": [
+        {
+          "foto": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png"
+        },
+        {
+          "foto": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
+        },
+        {
+          "foto": "https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png"
+        },
+        {
+          "foto": "https://logodix.com/logo/1625680.png"
+        },
+        {
+          "foto": "https://www.scottbrady91.com/img/logos/dart.png"
+        },
+        {
+          "foto": "https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png"
+        }
+      ]
+    },
+    {
+      "skill": [
+        {
+          "foto": "https://smarttips.in/wp-content/uploads/2018/03/Laravel-logo.jpg"
+        },
+        {
+          "foto": "https://cdn-images-1.medium.com/max/1600/1*6XgfDCVn81AYX68Xvd2I-g@2x.png"
+        },
+        {
+          "foto": "https://2.bp.blogspot.com/-Fj-KbJtQyAo/XGjbf_hgzyI/AAAAAAAAAxg/i9bBrilea5IIXQP230M7lF0FdOzmSJfPgCEwYBhgL/s1600/Adobe_Premiere_Pro_Logo.svg.png"
+        },
+        {
+          "foto": "https://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1-1024x1024.png"
+        },
+        {
+          "foto": "https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png"
+        }
+      ]
+    },
+    {
+      "bahasa": [
+        {
+          "language": "Bahasa Indonesia"
+        },
+        {
+          "language": "Bahasa Inggris"
+        }
+      ]
+    }
+  ]
+}
