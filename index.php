@@ -7,14 +7,14 @@ if (!$koneksi)
 
 $d = mysqli_query($koneksi, "SELECT * FROM `portofolio` ORDER BY `tanggal` DESC LIMIT 5");
 
-// $konten = file_get_contents('https://www.googleapis.com/youtube/v3/channels?part=snippet,statistics&id=UCSmq6oJpmvZWL2dpU6OeUlw&key=AIzaSyBV4lTn7OGNJMAFUJM98_12IjsoLglnlSM');
+// $konten = file_get_contents('apikey');
  $result = json_decode($konten, true);
  
  $namayoutube = $result ['items'][0]['snippet']['title'];
  $fotoyoutube = $result ['items'][0]['snippet']['thumbnails']['medium']['url'];
  $jumlahsubs = $result ['items'][0]['statistics']['subscriberCount'];
 //-------------------------------------------------------//
- //$vidio = file_get_contents('https://www.googleapis.com/youtube/v3/search?maxResults=8&channelId=UCSmq6oJpmvZWL2dpU6OeUlw&key=AIzaSyBV4lTn7OGNJMAFUJM98_12IjsoLglnlSM&order=title&part=snippet');
+ //$vidio = file_get_contents('apikey');
  $result2 = json_decode($vidio, true);
 
  $playvid = $result2['items'][4]['id']['videoId'];
